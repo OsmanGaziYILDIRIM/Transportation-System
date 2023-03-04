@@ -1,1 +1,2 @@
 # Transportation-System
+The input files of the system are dests.txt, packges.txt, Trucks.txt and Missions.txt parameters. The first configuration of the stations is obtained by reading the input from these files. After reading the task, the cargo truck is selected and the cargo packages specified in the task are distributed. After the task is completed, the status of each station is written in the output file.
